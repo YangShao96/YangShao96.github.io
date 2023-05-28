@@ -4,3 +4,11 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"Phys. Rev. B":
+  url: https://journals.aps.org/prb/
+  color: "#ba0c2f"
+
+"Appl. Phys. Lett.":
+  url: https://pubs.aip.org/aip/apl
+  color: "#2914BD"
