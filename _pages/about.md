@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
 subtitle: <a href='https://www.physicsandastronomy.pitt.edu/'>Department of Physics & Astronomy </a> at <a href='https://www.pitt.edu/'>University of Pittsburgh</a>
 
